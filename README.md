@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Mini Filesystem** é um sistema que permite a operação de CRUD em diretórios e arquivos. O sistema possui uma interface que possibilita ao usuário selecionar um diretório e visualizar os arquivos contidos nele. Além disso, é possível editar e excluir arquivos diretamente a partir da interface. O projeto foi desenvolvido com as seguintes tecnologias:
+O **Mini Filesystem** é um sistema que permite a operação de CRUD em diretórios e arquivos**(APENAS ARQUIVOS .TXT NO MOMENTO)**. O sistema possui uma interface que possibilita ao usuário selecionar um diretório e visualizar os arquivos contidos nele. Além disso, é possível editar e excluir arquivos diretamente a partir da interface. O projeto foi desenvolvido com as seguintes tecnologias:
 
 - **Backend**: Java, Spring Framework, Java 17
 - **Frontend**: Vue.js
